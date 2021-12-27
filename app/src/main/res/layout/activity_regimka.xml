@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Regimka">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#00000000"
+        android:orientation="vertical"
+        android:padding="5dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/tvTitleGPS"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#00000000"
+            android:text="@string/provider_gps"
+            android:textColor="#aeb0b0"
+            android:textSize="30sp"></TextView>
+
+        <TextView
+            android:id="@+id/tvEnabledGPS"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#00000000"
+            android:textColor="#aeb0b0"
+            android:textSize="24sp"></TextView>
+
+        <TextView
+            android:id="@+id/tvLocationGPS"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#00000000"
+            android:textColor="#aeb0b0"
+            android:textSize="24sp"></TextView>
+
+        <TextView
+            android:id="@+id/tvLocationNet"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#00000000"
+            android:textColor="#aeb0b0"
+            android:textSize="24sp"></TextView>
+
+        <TextView
+            android:id="@+id/textLan"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#00000000"
+            android:textColor="#aeb0b0"
+            android:text="Lan"
+            android:textSize="30sp" />
+
+        <TextView
+            android:id="@+id/textLog"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#00000000"
+            android:textColor="#aeb0b0"
+            android:text="Log"
+            android:textSize="30sp" />
+    </LinearLayout>
+    </android.support.constraint.ConstraintLayout>

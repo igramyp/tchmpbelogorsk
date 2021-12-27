@@ -1,0 +1,115 @@
+<resources>
+    <string name="app_name">ТЧМп-11 Белогорск v.0.5</string>
+    <string name="provider_gps">Статус GPS</string>
+    <string name="provider_network">Координаты сети</string>
+    <string name="google_maps_key">AIzaSyDzgh3-K-xsuNspEyPCwfxLSZYz9XK2c_g</string>
+
+    <string-array name="sp_stan_otprav_bel_mgd">
+
+        <item>Белогорск-2</item>
+        <item>Белогорск-1</item>
+        <item>Шимановск</item>
+        <item>Магдагачи</item>
+        <item>Украина</item>
+        <item>Серышево</item>
+        <item>Арга</item>
+        <item>Мих.-Чеснок.</item>
+        <item>Свободный</item>
+        <item>Усть Пера</item>
+        <item>Ледяная</item>
+        <item>Селеткан</item>
+        <item>Берея</item>
+        <item>Мухинская</item>
+        <item>Ту</item>
+        <item>Сиваки</item>
+        <item>Ушумун</item>
+        <item>Тыгда</item>
+        <item>Дактуй</item>
+        <item>Красная Падь</item>
+
+    </string-array>
+
+    <string-array name="sp_stan_prib_mgd_bel">
+
+        <item>Магдагачи</item>
+        <item>Шимановск</item>
+        <item>Белогорск-1</item>
+        <item>Белогорск-2</item>
+        <item>Красная Падь</item>
+        <item>Дактуй</item>
+        <item>Тыгда</item>
+        <item>Ушумун</item>
+        <item>Сиваки</item>
+        <item>Ту</item>
+        <item>Мухинская</item>
+        <item>Берея</item>
+        <item>Селеткан</item>
+        <item>Ледяная</item>
+        <item>Усть Пера</item>
+        <item>Свободный</item>
+        <item>Мих.-Чеснок.</item>
+        <item>Арга</item>
+        <item>Серышево</item>
+        <item>Украина</item>
+
+    </string-array>
+
+    <string-array name="kolvo_Sek">
+        <item>Э5к</item>
+        <item>2ЭС5к</item>
+        <item>3ЭС5к</item>
+        <item>2х2ЭС5к</item>
+    </string-array>
+
+    <string-array name="sp_stan_otprav_bel_obl">
+
+        <item>Белогорск-1</item>
+        <item>Белогорск-2</item>
+        <item>Завитая</item>
+        <item>Облучье</item>
+        <item>Возжаевка</item>
+        <item>Поздеевка</item>
+        <item>Екатеринославка</item>
+        <item>Тур</item>
+        <item>Тюкан</item>
+        <item>Бурея</item>
+        <item>Домикан</item>
+        <item>Архара</item>
+        <item>Татакан</item>
+        <item>Богучан</item>
+        <item>Урил</item>
+        <item>Тарманчукан</item>
+        <item>Кундур</item>
+        <item>Казачий</item>
+        <item>Ядрин</item>
+
+    </string-array>
+
+    <string-array name="sp_stan_prib_obl_bel">
+
+        <item>Облучье</item>
+        <item>Завитая</item>
+        <item>Белогорск-2</item>
+        <item>Белогорск-1</item>
+        <item>Ядрин</item>
+        <item>Казачий</item>
+        <item>Кундур</item>
+        <item>Тарманчукан</item>
+        <item>Урил</item>
+        <item>Богучан</item>
+        <item>Татакан</item>
+        <item>Архара</item>
+        <item>Домикан</item>
+        <item>Бурея</item>
+        <item>Тюкан</item>
+        <item>Тур</item>
+        <item>Екатеринославка</item>
+        <item>Поздеевка</item>
+        <item>Возжаевка</item>
+
+    </string-array>
+    <string name="title_activity_fullscreen__pzv2019">ПЗВ 2019</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+</resources>
