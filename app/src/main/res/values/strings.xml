@@ -2,7 +2,7 @@
     <string name="app_name">ТЧМп-11 Белогорск v.0.5</string>
     <string name="provider_gps">Статус GPS</string>
     <string name="provider_network">Координаты сети</string>
-    <string name="google_maps_key">AIzaSyDzgh3-K-xsuNspEyPCwfxLSZYz9XK2c_g</string>
+    <string name="google_maps_key"></string>
 
     <string-array name="sp_stan_otprav_bel_mgd">
 
